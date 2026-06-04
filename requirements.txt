@@ -1,0 +1,29 @@
+# core LLM Stack
+langchain
+langchain-community
+langchain-core
+langgraph
+
+# observability
+langsmith
+
+# Evaluation
+ragas
+
+# Embedings
+sentence-transformers
+
+#Vector databases
+faiss-cpu
+chromadb
+
+# API
+fastapi
+uvicorn
+
+# utils
+pydantic
+python-dotenv
+
+# LLM providers
+sarvam-ai
